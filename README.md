@@ -35,7 +35,6 @@ See https://github.com/moul/golang-repo-template/releases
 
 ## Contribute
 
-![Contribute <3](https://raw.githubusercontent.com/moul/moul/master/contribute.gif)
 
 I really welcome contributions. Your input is the most precious material. I'm well aware of that and I thank you in advance. Everyone is encouraged to look at what they can do on their own scale; no effort is too small.
 
